@@ -5,11 +5,12 @@
 
 - 🌱 I’m currently learning C# and .NET framework
 
-- 📫 How to reach me:
-    by email: maciekglow0@gmail.com
+- 📫 How to reach me: maciekglow0@gmail.com
 
 <!--
 **TheNuRii/TheNuRii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+!!!Notka dla mnie, w przyszłości opisać twój progres na przestzreni lat lub czemu zacząłeś programować 
 
 Here are some ideas to get you started:
 
