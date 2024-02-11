@@ -1,7 +1,7 @@
 ### Hi, I'm Maciej Głowacki
 
 - 📚 I'm currentyly studing at Poznań University of Technology
-field of study: Electronics and telecommunication
+,field of study: Electronics and telecommunication
 
 - 🌱 I’m currently learning C# and .NET framework
 
