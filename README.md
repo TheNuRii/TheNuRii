@@ -3,7 +3,9 @@
 - 📚 I'm currentyly studing at Poznań University of Technology
 ,field of study: Electronics and telecommunication
 
-- 🌱 I’m currently learning C# and .NET framework
+- 🌱 I’m currently learning kinda everything some C# and .NET framework, some ML/AI
+
+- 🤔 I’m curious abot how something work from top to bottom.
 
 - 📫 How to reach me: maciekglow0@gmail.com
 
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
  ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
