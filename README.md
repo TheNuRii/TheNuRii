@@ -1,5 +1,5 @@
 # 💫 About Me
-📚 I am currently pursuing a **Bachelor of Science in Electronics and Telecommunications** at **Poznań University of Technology**. I have always been fascinated by understanding how things work—from top to bottom—which inspired me to explore systems and technologies deeply from a young age.
+📚 I am currently pursuing a **Bachelor of Science in Electronics and Telecommunications** at **Poznań University of Technology**. I have always been fascinated by understanding how things work from top to bottom—which inspired me to explore systems and technologies deeply from a young age.
 
 🌱 I enjoy learning how systems function, both in software and hardware. My studies provided a strong foundation in **C/C++ programming, algorithms, and data structures**, but my curiosity pushed me further into **low-level programming, microprocessor architecture, and digital circuit design**.
 
@@ -18,20 +18,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Verilog](https://img.shields.io/badge/verilog-%23000000.svg?style=for-the-badge&logo=verilog&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)  
-
----
-
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuRii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)  
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=NuRii&theme=tokyonight&hide_border=false)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NuRii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
-
----
-
-# 📈 Visitors
-[![Visitor Count](https://visitcount.itsvg.in/api?id=NuRii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
